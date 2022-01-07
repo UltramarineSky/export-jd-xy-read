@@ -7,8 +7,8 @@
 第一步，下载代码, 安装依赖：
 
 ```shell
-git clone https://github.com/rmlzy/export-jd-read.git
-cd export_jd_read
+git clone https://github.com/UltramarineSky/export-jd-xy-read.git
+cd export-jd-xy-read
 npm i
 npm run start
 ```
